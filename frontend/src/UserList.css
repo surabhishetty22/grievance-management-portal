@@ -1,0 +1,26 @@
+
+.user-list-container {
+  max-width: 1600px; 
+  max-height: 650px;
+  margin: 0 auto; 
+  padding: 20px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  border: 1px solid #ddd;
+}
+
+th {
+  background-color: #f2f2f2;
+  color: #333;
+  position: sticky;
+  top: 0;
+}
+
+td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
